@@ -61,7 +61,7 @@ SUP_BUTTONS = [
 @in_pattern(owner=True, func=lambda x: not x.text)
 async def inline_alive(o):
     TLINK = inline_pic() or "https://graph.org/file/0f16529a7f5b26b355bb0.jpg"
-    MSG = "• **Ultroid Userbot •**"
+    MSG = "• **AnekaShastraHasta Userbot •**"
     WEB0 = InputWebDocument(
         "https://graph.org/file/0f16529a7f5b26b355bb0.jpg", 0, "image/jpg", []
     )
@@ -107,7 +107,7 @@ async def inline_handler(event):
         )
     else:
         result = await event.builder.article(
-            title="Ultroid Help Menu", text=text, buttons=_main_help_menu
+            title="AnekaShastraHasta Help Menu", text=text, buttons=_main_help_menu
         )
     await event.answer([result], private=True, cache_time=300, gallery=True)
 
