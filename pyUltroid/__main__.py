@@ -68,7 +68,7 @@ def main():
 
     suc_msg = """
             ----------------------------------------------------------------------
-                Ultroid has been deployed! Visit @TheUltroid for updates!!
+                AnekaShastraHasta has been deployed! Visit @AnekaShastraHasta for updates!!
             ----------------------------------------------------------------------
     """
 

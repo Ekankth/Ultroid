@@ -1,44 +1,44 @@
-# Ultroid - UserBot
-# Copyright (C) 2021-2022 TeamUltroid
+# AnekaShastraHasta - UserBot
+# Copyright (C) 2021-2022 TeamAnekaShastraHasta
 #
-# This file is a part of < https://github.com/TeamUltroid/Ultroid/ >
+# This file is a part of < https://github.com/TeamAnekaShastraHasta/AnekaShastraHasta/ >
 # PLease read the GNU Affero General Public License in
-# <https://www.github.com/TeamUltroid/Ultroid/blob/main/LICENSE/>.
+# <https://www.github.com/TeamAnekaShastraHasta/AnekaShastraHasta/blob/main/LICENSE/>.
 
 import re
 
 from . import *
 
 STRINGS = {
-    1: """🎇 **Thanks for Deploying Ultroid Userbot!**
+    1: """🎇 **Thanks for Deploying AnekaShastraHasta Userbot!**
 
 • Here, are the Some Basic stuff from, where you can Know, about its Usage.""",
-    2: """🎉** About Ultroid**
+    2: """🎉** About AnekaShastraHasta**
 
-🧿 Ultroid is Pluggable and powerful Telethon Userbot, made in Python from Scratch. It is Aimed to Increase Security along with Addition of Other Useful Features.
+🧿 AnekaShastraHasta is Pluggable and powerful Telethon Userbot, made in Python from Scratch. It is Aimed to Increase Security along with Addition of Other Useful Features.
 
-❣ Made by **@TeamUltroid**""",
+❣ Made by **@TeamAnekaShastraHasta**""",
     3: """**💡• FAQs •**
 
--> [Username Tracker](https://t.me/UltroidUpdates/24)
--> [Keeping Custom Addons Repo](https://t.me/UltroidUpdates/28)
--> [Disabling Deploy message](https://t.me/UltroidUpdates/27)
--> [Setting up TimeZone](https://t.me/UltroidUpdates/22)
--> [About Inline PmPermit](https://t.me/UltroidUpdates/21)
--> [About Dual Mode](https://t.me/UltroidUpdates/18)
--> [Custom Thumbnail](https://t.me/UltroidUpdates/13)
--> [About FullSudo](https://t.me/UltroidUpdates/11)
--> [Setting Up PmBot](https://t.me/UltroidUpdates/2)
--> [Also Check](https://t.me/UltroidUpdates/14)
+-> [Username Tracker](https://t.me/AnekaShastraHastaUpdates/24)
+-> [Keeping Custom Addons Repo](https://t.me/AnekaShastraHastaUpdates/28)
+-> [Disabling Deploy message](https://t.me/AnekaShastraHastaUpdates/27)
+-> [Setting up TimeZone](https://t.me/AnekaShastraHastaUpdates/22)
+-> [About Inline PmPermit](https://t.me/AnekaShastraHastaUpdates/21)
+-> [About Dual Mode](https://t.me/AnekaShastraHastaUpdates/18)
+-> [Custom Thumbnail](https://t.me/AnekaShastraHastaUpdates/13)
+-> [About FullSudo](https://t.me/AnekaShastraHastaUpdates/11)
+-> [Setting Up PmBot](https://t.me/AnekaShastraHastaUpdates/2)
+-> [Also Check](https://t.me/AnekaShastraHastaUpdates/14)
 
 **• To Know About Updates**
-  - Join @TeamUltroid.""",
+  - Join @TeamAnekaShastraHasta.""",
     4: f"""• `To Know All Available Commands`
 
   - `{HNDLR}help`
   - `{HNDLR}cmds`""",
     5: """• **For Any Other Query or Suggestion**
-  - Move to **@UltroidSupportChat**.
+  - Move to **@AnekaShastraHastaSupportChat**.
 
 • Thanks for Reaching till END.""",
 }

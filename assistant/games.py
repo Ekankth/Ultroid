@@ -140,7 +140,7 @@ async def eiagx(e):
 # ----------------------- Main Command ------------------- #
 
 GIMAGES = [
-    "https://graph.org/file/1c51015bae5205a65fd69.jpg",
+    "https://graph.org/file/0f16529a7f5b26b355bb0.jpg",
     "https://imgwhale.xyz/3xyr322l64j9590",
 ]
 
